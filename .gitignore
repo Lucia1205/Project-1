@@ -1,1 +1,4 @@
-zzz
+data/
+.RDataTmp
+.Rhistory
+.RData
